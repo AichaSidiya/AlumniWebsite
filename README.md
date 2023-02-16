@@ -46,7 +46,7 @@
 <!--Purpose of the project-->
 This poject is a website dedicated for Effat University book Club (leader and members). 
 
-<img src="https://github.com/AichaSidiya/BookClub/blob/main/demoBookClub.gif"/>
+<img src="https://github.com/AichaSidiya/AlumniWebsite/blob/main/demoAlumni.gif"/>
 
 <!--Header 2 description of the project-->
 ## Description
