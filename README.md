@@ -108,7 +108,6 @@ git clone https://github.com/AichaSidiya/AlumniWebsite.git
 ``` 
 * Install [xampp](https://www.apachefriends.org/download.html)
 * Import the alumnidatabase.sql file to [phpmyadmin](localhost/phpmyadmin/)
-* Update the dbconfig.php file with your database credentials.
 * Host the files on a web server and access the website using your preferred browser.
 
 
