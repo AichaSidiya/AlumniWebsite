@@ -213,7 +213,7 @@ If the changes in the website does not appear try using another browser or click
 <!-- The contributors to the project-->
 * [Aicha Sidiya](https://github.com/AichaSidiya)
 * [Hanin AlZaher](https://github.com/hanin-az)
-* Razan AlMahdi
+* [Razan AlMahdi](https://github.com/RazanAlmahdi)
 * Layal Ghiryani
 
 
