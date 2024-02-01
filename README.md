@@ -1,4 +1,4 @@
-# AlumniWebsite
+# Alumni Website
 
 ## Purpose
 <!--Purpose of the project-->
